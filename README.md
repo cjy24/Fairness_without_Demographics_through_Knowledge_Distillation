@@ -8,7 +8,7 @@ Please install all necessary packages via: pip install -r requirements.txt
 
 # Usage
 
-To run the experiments, please revise the file directory accordingly.
+The example contains experiments on reconstructed Adult dataset. To run the experiments, please revise the file directory accordingly.
 
 # Citation
 @article{chai2022fairness,
